@@ -90,9 +90,9 @@ Good math and CS books. I might not have catalogued all, but here are the good o
 
 ### Computational Topology: An Introduction by Herbert Edelsbrunner and John Harer 
 
-## Computers and Typesetting: The TeXBook by Donald E. Knuth
+### Computers and Typesetting: The TeXBook by Donald E. Knuth
 
-## Cryptography Engieering: Design Principles and Practical Applications by Niels Ferguson, Bruce Shneier, and Tadayoshi Kohno
+### Cryptography Engieering: Design Principles and Practical Applications by Niels Ferguson, Bruce Shneier, and Tadayoshi Kohno
 
 ### Differential Forms in Algebraic Topology
 
